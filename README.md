@@ -2,7 +2,7 @@
 
 ## Steps to run
 
-- Make sure you have MongoDB installed
+- Make sure you have Python and MongoDB installed
 - Use any editor of your choice (Preferably: VS Code, PyCharm Professional)
 - Clone this repo
 - Enter the Virtual Environment (type in cmd, For windows: venv/Scripts/activate)
